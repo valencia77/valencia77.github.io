@@ -94,13 +94,13 @@ analytics:
 
 # Site Author
 author:
-  name             :"김유빈" 
+  name             : "김유빈" 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :"learning is my life."
-  location         :"South Korea, Seoul" 
+  bio              : "learning is my life."
+  location         : "South Korea, Seoul" 
   email            :
   links:
-    - label:"valencia1234@naver.com" 
+    - label: "valencia1234@naver.com" 
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
