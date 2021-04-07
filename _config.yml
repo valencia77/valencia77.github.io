@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김유빈" 
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/OIP 수엊.jpg"
   bio              : "learning is my life."
   location         : "South Korea, Seoul" 
   email            :
