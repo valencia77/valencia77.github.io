@@ -4,6 +4,8 @@ title: "유튜브 동영상 삽입하기"
 toc: True
 toc_sticky: true
 toc_label: "페이지 주요 목차"
+categories: 실습
+last_modified_at: 2021-06-18 TO8: 02:41-05:00
 ---
 ### 01. 인공지능, 머신러닝과 딥러닝의 차이
 {% include video id="np7DdtStwd0" provider="youtube"%}
